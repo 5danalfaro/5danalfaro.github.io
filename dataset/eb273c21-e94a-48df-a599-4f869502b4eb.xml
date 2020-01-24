@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="eb273c21-e94a-48df-a599-4f869502b4eb"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/qqzpfc</alternateIdentifier>
+        <alternateIdentifier>eb273c21-e94a-48df-a599-4f869502b4eb</alternateIdentifier>
+        <alternateIdentifier>http://ipt-nigeria.gbif.fr/resource?r=unizik300plant-herbariun_collections</alternateIdentifier>
+    <title>Plants Of Nnamdi Azikiwe University Herbarium (NAUH) Awka</title>
+    <creator>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Nnabude</surName>
+    </individualName>
+<organizationName>Nnamdi Azikiwe University</organizationName><positionName>Professor/HOD</positionName>    <address>
+<deliveryPoint>Department of Soil Science &amp; Land Resources Management</deliveryPoint><city>Awka</city><administrativeArea>AnambraState</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 703 3128 992</phone><electronicMailAddress>nnabudep@yahoo.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Tochukwu</givenName>          <surName>Egboka</surName>
+    </individualName>
+<organizationName>Nnamdi Azikiwe University</organizationName><positionName>LecturerII/Herbarium overseer</positionName>    <address>
+<deliveryPoint>Dept. of Botany</deliveryPoint><city>Awka</city><administrativeArea>Anambra State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 7065835473</phone><electronicMailAddress>tp.egboka@unizik.edu.ng</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Omokafe</givenName>          <surName>Ugbogu</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Director/Curator Forest Herbarium Ibadan (FHI)</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8032236876</phone><electronicMailAddress>omokafeugbogu@yahoo.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Oluwaseun</givenName>          <surName>Osiyemi</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Chief Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>08023626443</phone><electronicMailAddress>osinyemi2004@yahoo.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Oluwaseun</givenName>          <surName>Osiyemi</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Chief Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>08023626443</phone><electronicMailAddress>osinyemi2004@yahoo.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Nnabede</surName>
+    </individualName>
+<organizationName>Nnamdi Azikiwe University Herbarium</organizationName><positionName>Professor/Curator</positionName>    <address>
+<city>Awka</city><administrativeArea>Anambra State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234(0)7033128992</phone><electronicMailAddress>nnabudep@yahoo.com</electronicMailAddress>    <role>CURATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Omokafe</givenName>          <surName>Ugbogu</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>08032236876</phone><electronicMailAddress>omokafeugbogu@yahoo.com</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Oluwaseun</givenName>          <surName>Osiyemi</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Chief Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>08023626443</phone><electronicMailAddress>osinyemi2004@yahoo.com</electronicMailAddress>    <role>PUBLISHER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Marie-Elise</givenName>          <surName>Lecoq</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT Engineer</positionName>    <address>
+<country>FRANCE</country>    </address>
+<phone>+33140798065</phone><electronicMailAddress>melecoq@gbif.fr</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-04-04
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Nnamdi Azikiwe University Herbarium (NAUH), Is an institutional herbarium to Department of Botany, Nnamdi Azikiwe University Awka, located in south eastern Nigeria, Precisely in Awka the capital city of Anambra State, the general herbarium is located within the building of the Departmental Laboratory which houses about 500 specimens of vascular, non-vascular plants and cryptogams, but still growing with each new collection. The sources of NAUH materials are from collections done in the field by students of Botany and relative Department whose interest in plant research often Drives them to bring along different plant materials for taxonomic identification after exploration on the field for suitable plant for research purposes. New plant are collected and preserved on both weekly and daily basis to serve the growing need of vast majority of plant researchers, in Eastern and Southern region of Nigeria, the main Purpose of NAUH is to Collect, Identify, Preserve and Document plant specimen for Academic research purposes, Voucher numbers are given in Alphabetic order to the Family in which the plant belongs, The dataset presently holds about 262 records of herbarium specimens collected between 2005 – 2016, consisting of  68 Families, 197 Genera and  237 Species.</para>
+    </abstract>
+        <keywordSet>
+              <keyword></keyword>
+              <keyword>Nnamdi Azikiwe University Herbarium</keyword>
+              <keyword>Plantae</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Plants were collected from Awka in Anambra State and Oyo State in Nigeria</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>3.406</westBoundingCoordinate>
+                      <eastBoundingCoordinate>7.493</eastBoundingCoordinate>
+                      <northBoundingCoordinate>8.309</northBoundingCoordinate>
+                      <southBoundingCoordinate>5.977</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The plants specimens were identified to species rank.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Casuarina equisetifolia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pouzolzia hypoleuca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Alchornea cordifolia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Gmelina arborea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Moringa oleifera Lam.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vitex doniana Sweet</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Oluwaseun</givenName>          <surName>Osiyemi</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Chief Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>08023626443</phone><electronicMailAddress>osinyemi2004@yahoo.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Omokafe</givenName>          <surName>Ugbogu</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Director/Curator Forest Herbarium Ibadan (FHI)</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8032236876</phone><electronicMailAddress>omokafeugbogu@yahoo.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project id="BID-AF2017-0210-NAC">
+          <title>Capacity Advancement for the Nigeria node of GBIF</title>
+          <personnel>
+    <individualName>
+<givenName>Omokafe</givenName>          <surName>Ugbogu</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Nnabude</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Joseph</givenName>          <surName>Onoja</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Zaccheaus</givenName>          <surName>Egbewole</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Okedeji</givenName>          <surName>Okeyoyin</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <abstract>
+              <para>The objective of this project is to initiate mobilization of biodiversity data from Nigerian data holders, custodians, and institutions, estimated to hold more than 700,000 data records related to plants and animals within protected areas and likewise invasive, threatened and endemic species. While educating biodiversity data stakeholders across Nigeria on the benefits of biodiversity data mobilization and sharing, the project will also disseminate and demonstrate best practices for digitizing natural history collections through training workshops and thereby mobilize biodiversity data from Nigeria. Project activities will be coordinated by Forestry Research Institute of Nigeria (FRIN) and executed in collaboration with project partners at Nigeria National Park Service, Nigerian Conservation Foundation (NCF), Nnadi Azikiwe University, Awka, Nasarawa State University, and University of Kansas. Through this project, previously undigitized data from herbarium/museum collections and species in the protected areas in each geo-ecological zone of Nigeria will be mobilized and shared through GBIF.org, complementing data that the Nigerian GBIF node is already mobilizing. In addition to helping policy makers prioritize conservation investments, the mobilized data will be used to identify potential habitats for threatened species, which in turn will aid park managers to focus long-term conservation efforts. The project is expected to increase capacity for biodiversity information management within the GBIF node in Nigeria.</para>
+          </abstract>
+          <funding>
+              <para>The project was funded by European Union and GBIF. It was co funded by Forestry Research Institute of Nigeria, Nigeria National Park Service, Nigerian Conservation Foundation (NCF), Nnadi Azikiwe University Awka and Nasarawa State University.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The project occurred in the six geoecological zones across Nigeria. The records mobilized are those of herbarium specimens, insect collections and animals in parks and protected areas across Nigeria.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>n the research design, specimens were digitized directly into Darwin Core spreadsheet by project team. The data cleaning was done using OpenRefine software. In the process of digitization, Google Maps (GPS finder) was used for Georeferencing of localities on specimen’s records. Validation of taxonomic records was done using Global Names Resolver and other online resources. The goal of the research design is digitization of over 10000 biodiversity data and information on threatened species, invasive alien species and species in the protected areas in each geoecological zone in Nigeria</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:01Z</dateStamp>
+      <citation>Nnabude P, Egboka T, Ugbogu O, Osiyemi O (2019). Plants Of Nnamdi Azikiwe University Herbarium (NAUH) Awka. Version 1.5. Forestry Research Institute of Nigeria. Occurrence dataset https://doi.org/10.15468/qqzpfc accessed via GBIF.org on 2020-01-20.</citation>
+              <bibliography>
+      <citation>Google Maps 2018</citation>
+              </bibliography>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>Plants Of Nnamdi Azikiwe University Herbarium (NAUH) Awka</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+              <livingTimePeriod>2005-2015</livingTimePeriod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Herbarium specimen sheets</jgtiUnitType>
+                      <jgtiUnitRange>
+                          <beginRange>262</beginRange>
+                          <endRange>0</endRange>
+                      </jgtiUnitRange>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

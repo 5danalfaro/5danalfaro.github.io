@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1b4f3056-a565-4b7e-abff-a996105000e5"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/xtukrj</alternateIdentifier>
+        <alternateIdentifier>1b4f3056-a565-4b7e-abff-a996105000e5</alternateIdentifier>
+        <alternateIdentifier>http://ipt-togo.gbif.fr/resource?r=pla</alternateIdentifier>
+    <title>Plan d&apos;Aménagement participative de la Forêt Classée d&apos;Alédjo (Togo)</title>
+    <creator>
+    <individualName>
+<givenName>Koudjo</givenName>          <surName>Akpene</surName>
+    </individualName>
+<organizationName>GBIF Togo, Université de Lomé</organizationName><positionName>IT GBIF Togo</positionName>    <address>
+<deliveryPoint>GBIF Togo, Université de Lomé</deliveryPoint><city>Lomé</city><administrativeArea>Région Maritime</administrativeArea><postalCode>1BP 1515</postalCode><country>BENIN</country>    </address>
+<phone>+22890038866</phone><electronicMailAddress>koudjoa@yahoo.fr</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Sunday Berlioz</givenName>          <surName>KAKPO</surName>
+    </individualName>
+<organizationName>Network of African Leaders for Biodiversity Conservation and Environment (NALBCE)</organizationName>    <address>
+<city>Cotonou</city><country>BENIN</country>    </address>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Koudjo</givenName>          <surName>AKPENE</surName>
+    </individualName>
+<electronicMailAddress>koudjoa@yahoo.fr</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2019-07-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>NALBCE, 2019. Mobilization of biodiversity data. Database 3, Togo Node.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://www.facebook.com/NALBCE/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Network of African Leaders for Biodiversity Conservation and Environment (NALBCE)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>0.088</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.714</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.071</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.25</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Fidel</givenName>          <surName>AGBANHOUNGBA</surName>
+    </individualName>
+<organizationName>ACDD</organizationName><positionName>Director</positionName>    <address>
+<city>Cotonou</city><country>BENIN</country>    </address>
+<phone>+22995898580</phone><electronicMailAddress>agbgafid@gmail.com</electronicMailAddress>      </contact>
+
+      <project id="CESP2018-001">
+          <title>Mentoring GBIF Togo - GBIF France</title>
+          <personnel>
+    <individualName>
+<givenName>Sunday Berlioz</givenName>          <surName>KAKPO</surName>
+    </individualName>
+    <role>ORIGINATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Fidel</givenName>          <surName>AGBANHOUNGBA</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Raoufou</givenName>          <surName>Radji</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Mentoring GBIF TOGO - GBIF FRANCE. Mobilization of biodiversity data. Database 3,</para>
+          </abstract>
+          <funding>
+              <para>GBIF Secretariat by CESP Project</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:08Z</dateStamp>
+      <citation>Akpene K, KAKPO S B (2019). Plan d&apos;Aménagement participative de la Forêt Classée d&apos;Alédjo (Togo). Version 1.6. Network of African Leaders for Biodiversity Conservation and Environment (NALBCE). Occurrence dataset https://doi.org/10.15468/xtukrj accessed via GBIF.org on 2020-01-20.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

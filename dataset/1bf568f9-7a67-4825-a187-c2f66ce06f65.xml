@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1bf568f9-7a67-4825-a187-c2f66ce06f65"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/ckbuue</alternateIdentifier>
+        <alternateIdentifier>1bf568f9-7a67-4825-a187-c2f66ce06f65</alternateIdentifier>
+        <alternateIdentifier>http://ipt-cotedivoire.gbif.fr/resource?r=liste_ibaan</alternateIdentifier>
+    <title>Liste de quelques espèces à statuts particuliers de l&apos;herbier du Centre National de Floristique (CNF) en Côte d&apos;Ivoire</title>
+    <creator>
+    <individualName>
+<givenName>Kouao Jean</givenName>          <surName>KOFFI</surName>
+    </individualName>
+<organizationName>Université Nangui Abrogoua</organizationName><positionName>Metada Author</positionName>    <address>
+<deliveryPoint>02 BP 801 Abidjan 02</deliveryPoint><city>Abidjan</city><country>CÔTE_DIVOIRE</country>    </address>
+<phone>+225 47589663</phone>    </creator>
+    <creator>
+    <individualName>
+<givenName>Akossoua Faustine</givenName>          <surName>KOUASSI</surName>
+    </individualName>
+<organizationName>Université Félix Houphouët Boigny, Centre National de Floristique (CNF)</organizationName><positionName>Resource Creator</positionName>    <address>
+<deliveryPoint>22 BP 582 Abidjan 22</deliveryPoint><city>Abidjan</city><country>CÔTE_DIVOIRE</country>    </address>
+<phone>+225 47589664</phone>    </creator>
+    <creator>
+    <individualName>
+<givenName>Ablan Emma</givenName>          <surName>AKE-ASSI</surName>
+    </individualName>
+<organizationName>Université Félix Houphouët Boigny, Institut Botanique Aké-Assi d&apos;Andokoi (IBAAN)</organizationName><positionName>Resource Creator</positionName>    <address>
+<deliveryPoint>08 BP 172 Abidjan 08</deliveryPoint><city>Abidjan</city><country>CÔTE_DIVOIRE</country>    </address>
+<phone>+225 07464294</phone>    </creator>
+    <creator>
+    <individualName>
+<givenName>Konan</givenName>          <surName>YAO</surName>
+    </individualName>
+<organizationName>Université Félix Houphouët Boigny, Centre National de Floristique (CNF)</organizationName><positionName>Resource Creator</positionName>    <address>
+<deliveryPoint>22 BP 582 Abidjan 22</deliveryPoint><city>Abidjan</city><country>CÔTE_DIVOIRE</country>    </address>
+<phone>+225 08017956</phone>    </creator>
+    <creator>
+    <individualName>
+<givenName>Koua Serge Beranger</givenName>          <surName>N&apos;GORAN</surName>
+    </individualName>
+<organizationName>Université Félix Houphouët Boigny, Centre National de Floristique (CNF)</organizationName><positionName>Resource creator</positionName>    <address>
+<deliveryPoint>22 BP 582 Abidjan 22</deliveryPoint><city>Abidjan</city><country>CÔTE_DIVOIRE</country>    </address>
+<phone>+225 58415317</phone>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Béranger</givenName>          <surName>N&apos;Goran</surName>
+    </individualName>
+<organizationName>Université Félix Houphouët Boigny, Centre National de Floristique (CNF)</organizationName><positionName>Resource Creator</positionName>    <address>
+<deliveryPoint>22 BP 582 Abidjan 22</deliveryPoint><city>Abidjan</city><country>CÔTE_DIVOIRE</country>    </address>
+<phone>+225 58415317</phone><electronicMailAddress>kouaberanger@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Béranger</givenName>          <surName>N&apos;Goran</surName>
+    </individualName>
+<organizationName>Université Félix Houphouët Boigny, Centre National de Floristique (CNF)</organizationName><positionName>Resource creator</positionName>    <address>
+<deliveryPoint>22 BP 582 Abidjan 22</deliveryPoint><city>Abidjan</city><country>CÔTE_DIVOIRE</country>    </address>
+<phone>+225 58415317</phone><electronicMailAddress>kouaberanger@yahoo.fr</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-11-25
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>L&amp;#39;objectif global du projet est le renforcement des capacités et la mobilisation de données sur la biodiversité en Afrique et à Madagascar pour aborder les priorités de la prise de décision sur les espèces exotiques envahissantes et les espèces menacées.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Liliopsida.</keyword>
+              <keyword>Plantae</keyword>
+              <keyword>Magnoliopsida</keyword>
+              <keyword>Tracheophyta</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://cnf-ufhb.ci</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Echantillons collectés dans toutes les régions de Côte d&apos;Ivoire</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-8.701</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.197</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.178</northBoundingCoordinate>
+                      <southBoundingCoordinate>4.39</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1993
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2000
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Kouao Jean</givenName>          <surName>KOFFI</surName>
+    </individualName>
+<organizationName>Université Nangui Abrogoua</organizationName><positionName>Metadata Author</positionName>    <address>
+<deliveryPoint>02 BP 801 Abidjan 02</deliveryPoint><city>Abidjan</city><country>CÔTE_DIVOIRE</country>    </address>
+<phone>+225 47539663</phone>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Pour déterminer la liste de cette étude, nous avons confronté celle de Aké Assi (1998) publié dans Flamboyant à celle de UICN (2015) afin d’identifier les espèces rares et menacées d’extinction signalées par le professeur Aké et confirmé par UICN (2015).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>L&apos;étude a porté sur toutes les zones agro écologiques de la Côte d&apos;Ivoire</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Cette étude a été conduite dans l&apos;herbier du Centre National de Floristique (CNF). Elle a porté essentiellement sur les espèces à statut particulier de la Côte d’Ivoire. Selon Aké Assi (1998), les espèces considérées comme menacées se trouvent dans une situation extrêmement précaire.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project id="BID-AF2015-0066-REG">
+          <title>Capacity building and biodiversity data mobilization for conservation, sustainable use, and decision making in Africa and Madagascar</title>
+          <personnel>
+    <individualName>
+<givenName>KOFFI</givenName>          <surName>Kouao Jean</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>This project to mobilize biodiversity data and identify conservation priorities will be implemented by a consortium of eight African countries – Senegal, Côte-d’Ivoire, Mali, Guinea, DRC, Niger, Madagascar, and Benin.
+Training workshops organized by the University of Kansas will help build the data publishing capacity of project partners. The consortium will identify priority invasive alien species and threatened species for data mobilization, and publish relevant data from collections in France, Netherlands and Belgium. More than 200,000 records of biodiversity data will be made available through GBIF.org and national portals.
+Based on published data, the consortium will develop distribution maps of priority species, suggest actions to monitor and control the spread of invasive alien species and provide recommendations for the conservation of threatened species.</para>
+          </abstract>
+          <funding>
+              <para>The funding of this project is generously provided by European Union in the framework of Biodiversity Information for Development program managed by GBIF Secretariat</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The data digitized and published in the framework of this project are gathered throughout the country members on the targeted species</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Despite its utmost importance to the survival of humanity, biodiversity is subject to many threats. As a significant step toward overcoming these threats, we submit this project in the framework of a consortium of eight African countries - Senegal, Côte-d’Ivoire, Mali, Guinea, DRC, Niger, Madagascar, and Benin - to achieve the following goals: 
+1) Establish and strengthen international collaborations to mobilize biodiversity data; to achieve that goal, we will identify priority invasive alien species and threatened species to be considered in the consortium. We will organize workshops at regional level under the umbrella of the University of Kansas (USA), our Non-ACP partner, to capacitate project partners. We will digitize and publish data of consortium countries deposited in France, Netherlands, and Belgium. 
+2) Increase available biodiversity data, within and beyond the grant period, by capacitating and providing financial assistance to in-country partners to encourage them mobilize and publish their data through GBIF and national portals. 
+3) Apply biodiversity data in response to conservation priorities by achieving the following: elaborate distribution maps of threatened species and invasive alien species; identify the main threats to species and suggest efficient actions to protect and conserve them; identify and suggest efficient actions to monitor and eradicate invasive alien species; evaluate the efficiency of protected areas with respect to biodiversity conservation and make adequate suggestions; finally, from our results, elaborate and broadcast communication and outreach via diverse media so as to demonstrate to policy- and decision-makers the value chain: data → knowledge → applications.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:06Z</dateStamp>
+      <citation>KOFFI K J, KOUASSI A F, AKE-ASSI A E, YAO K, N&apos;GORAN K S B, N&apos;Goran B (2018). Liste de quelques espèces à statuts particuliers de l&apos;herbier du Centre National de Floristique (CNF) en Côte d&apos;Ivoire. Version 1.2. Centre National de Floristique. Occurrence dataset https://doi.org/10.15468/ckbuue accessed via GBIF.org on 2020-01-20.</citation>
+              <bibliography>
+      <citation>Aké-Assi L., 2001. Flore de la Côte d&apos;Ivoire: Catalogue systématique, biogéographie et écologie, I. Boissiera, Volume 57. Mémoires de botanique systématique, Génève, 396p.						
+Aké-Assi L., 2001. Flore de la Côte d&apos;Ivoire: Catalogue systématique, biogéographie et écologie, I. Boissiera, Volume 58. Mémoires de botanique systématique, Génève, 401p.						
+Aké-Assi L., 1984. Flore de la Côte d&apos;Ivoire: Etude descriptive et biogéographie avec quelques notes etnobotaniques. Tome IA: Flore des Angiospermes: Liste commentée des espèces recensées (Acanthaceae à Casuarinaceae). Thèse de Doctorat, Faculté des Sciences de l&apos;Université d&apos;Abidjan, Côte d&apos;Ivoire, 176p.						
+Aké-Assi L., 1984. Flore de la Côte d&apos;Ivoire: étude descriptive et biogéographie avec quelqus notes ethnobotaniques. Tome IB: flore des Angiospermes: liste commentée des espèces recensées (Cecropiaceae à Leguminosae). Thèse de Doctorat, Faculté des Sciences de l&apos;Université d&apos;Abidjan, Abidjan, Côte d&apos;Ivoire, 393p. 						
+ Aké-Assi L., 1984. Flore de la Côte d&apos;Ivoire: étude descriptive et biogéographie avec quelqus notes ethnobotaniques. Tome IC: flore des Angiospermes: liste commentée des espèces recensées (Monocotylédones). Thèse de Doctorat, Faculté des Sciences de l&apos;Université d&apos;Abidjan, Abidjan, Côte d&apos;Ivoire, 721p. 						
+Aké-Assi L., 1984. Flore de la Côte d&apos;Ivoire: étude descriptive et biogéographie avec quelqus notes ethnobotaniques. Tome ID: flore des Angiospermes: liste commentée des espèces recensées (Monocotylédones). Thèse de Doctorat, Faculté des Sciences de l&apos;Université d&apos;Abidjan, Abidjan, Côte d&apos;Ivoire, 721p. 						
+Aké-Assi L., 1984. Flore de la Côte d&apos;Ivoire: étude descriptive et biogéographie avec quelqus notes ethnobotaniques. Tome III: Analyse des caractères de la flore ivoirienne, considérations générales. Thèse de Doctorat, Faculté des Sciences de l&apos;Université d&apos;Abidjan, Abidjan, Côte d&apos;Ivoire, 721p. 						
+Aké-Assi A.E., 2015. Etude taxinomique des plantes à potentialité décorative de la flore du sud de la Côte d&apos;Ivoire et essai de domestication de Thumbergia atacorensis Akoegninou &amp; Lisowski (Acanthaceae), une espèce nouvellement introduite. Thèse de Doctorat ès Sciences Naturelles. Université Félix Houphouët-Boigny, UFR Biosciences, Laboratoire de Botanique, 216p.						
+Aké-Assi A.E., 2002. Contribution à l&apos;étude des plantes ornementales cultivées dans les régions d&apos;Abidjan et de San-Pedro, en Côte d&apos;Ivoire. Doctorat de 3ème cycle, UFR Biosciences, Université de Cocody-Abidjan, Côte d&apos;Ivoire, Volume 1 (texte et iconographie) 291p. 						
+Aké-Assi A.E., 2002. Contribution à l&apos;étude des plantes ornementales cultivées dans les régions d&apos;Abidjan et de San-Pedro, en Côte d&apos;Ivoire. Doctorat de 3ème cycle, UFR Biosciences, Université de Cocody-Abidjan, Côte d&apos;Ivoire, Volume 2 (catalogue illustré de 241 espèces et variétés horticoles) 110p.						
+Aké-Assi A.E., 1996. Contribution à l&apos;étude des plantes ornementales cultivées dans la région d&apos;Abidjan (Côte d&apos;Ivoire). Diplôme d&apos;Etudes Approfondies (D.E.A.) d&apos;Ecologie Tropicale (Option: Végétale), Faculté des Sciences et Techniques, Université de Cocody, Abidjan, 159 pages.</citation>
+              </bibliography>
+              <resourceLogoUrl>http://ipt-cotedivoire.gbif.fr/logo.do?r=liste_ibaan</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier>UCJ</collectionIdentifier>
+                <collectionName>Centre National de Floristique</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

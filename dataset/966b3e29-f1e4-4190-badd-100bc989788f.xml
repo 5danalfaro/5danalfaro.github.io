@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="966b3e29-f1e4-4190-badd-100bc989788f"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ugkanx</alternateIdentifier>
+        <alternateIdentifier>http://ipt-togo.gbif.fr/resource?r=reserve_djamde</alternateIdentifier>
+        <alternateIdentifier>966b3e29-f1e4-4190-badd-100bc989788f</alternateIdentifier>
+    <title>Djamde Wildlife Reserve in Togo: diversity of woody species</title>
+    <creator>
+    <individualName>
+<givenName>Raoufou</givenName>          <surName>Radji</surName>
+    </individualName>
+<organizationName>GBIF Togo - University of Lomé</organizationName><positionName>Node Manager</positionName>    <address>
+<deliveryPoint>255 rue des Troènes Hédzranawé non loin de Ecole Privée FOADEY</deliveryPoint><city>Lomé</city><administrativeArea>Région Maritime</administrativeArea><postalCode>06BP 6135</postalCode><country>TOGO</country>    </address>
+<phone>+22890045114</phone><electronicMailAddress>pradji@hotmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-5724-2903</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Koudjo</givenName>          <surName>AKPENE</surName>
+    </individualName>
+<organizationName>GBIF Togo - University of Lomé</organizationName><positionName>IT GBIF Togo</positionName>    <address>
+<deliveryPoint>1BP 1515 Lomé1</deliveryPoint><city>Lomé</city><administrativeArea>Maritim</administrativeArea><country>TOGO</country>    </address>
+<electronicMailAddress>koudjoa@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Kotchikpa</givenName>          <surName>Okoumassou</surName>
+    </individualName>
+<organizationName>Forestry Resources Office</organizationName>    <address>
+<deliveryPoint>Division of Protected Areas and Wildlife</deliveryPoint><city>Lomé</city><administrativeArea>Maritim</administrativeArea><postalCode>BP: 355</postalCode><country>TOGO</country>    </address>
+<electronicMailAddress>okoumassoukotchikpa@yahoo.fr</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-07-23
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Tropical forests, which cover less than 10% of the total land area, harbor 50-90% of the known terrestrial plant and animal species and forest biodiversity underpins most of the forest ecosystem services (MEA 2005; Seppala et al. 2009; FAO 2010). They are the richest biological communities on earth and these forests have been recognized to harbor a significant proportion of global biodiversity (Myers et al 2000; Baraloto et al 2013) and also provide an estimated 1.6 billion people with livelihood systems and wood (World Bank 2004; FAO 2010). These forests provide many ecosystem services such as species conservation, prevention of soil erosion, and preservation of habitat for plants and animals (Armenteras et al 2009). According to the mapping done on the 2013 satellite imagery data as part of the National Forest Inventory (NFI), in Togo, forest cover represents 24.24% of the country&amp;#39;s total area (MERF, 2016). This forest cover consists mainly of dense forests, riparian forests, open forests, dense woodlands and forest relics. Changes in land use have resulted in the vulnerability of the country&amp;#39;s forest ecosystems, whose area is shrinking significantly every year, in favor of savannas and farmland (MERF, 2018).Overexploitation has resulted in the rapid loss of forests and is recognized to be one of the biggest environmental and economic problems around the world (Mani and Parthasarathy, 2006). Tropical forests are disappearing at alarming rates worldwide, reducing annually by 1-4% of their current area (Laurance, 1999). Relatively increased anthropogenic pressures have led to agricultural expansion and overgrazing of livestock (Anitha et al 2010). In fact, between 1975 and 2010, Togo&amp;#39;s forests have lost nearly 33% of their land area (USGS EROS, 2013) and Togo is among the countries with the highest net loss as a percentage of forests (FAO, 2011). These growing deforestation and degradation phenomena limit the ability of forest ecosystems to provide their vital goods and services to the population. In order to conserve biological diversity, since the colonial period, Togo has constituted a vast network of protected areas, including national parks, classified forests and wildlife reserves. This network of 83 protected areas is estimated at about 14% of the national land.Thus, protection and restoration of habitats, which enhance biodiversity and productivity, could directly benefit communities dependent on these forest resources (Heywood 1995; Reddy &amp;amp; Ugle 2008). But in 1990, following the socio-political unrest, these protected areas suffered a major degradation resulting in flooding, overgrazing, illegal and excessive resources exploitation of these protected areas. To reverse the trend, the Government has adopted in 2003 a standard protected area management framework aimed at restoring and securing about 10.21% of the national territory (MERF, 2008). Identified as a priority protected area and to strengthen its management, the wildlife reserve of Djamdè was granted to the company TOGO-FAUNE in 2003, for 99 years.It is within the framework of this concession that the company named TOGO-FAUNE, with technical support of the Ministry of the Environment and Forest Resources (MERF) commissioned studies including the forest inventory of Djamdè reserve, for the elaboration of its management plan.The present dataset is developed to 1) show the importance of Djamdè Wildlife Reserve in term of biodiversity conservation in Togo, 2) promote public-private partnership in protected areas management, and 3) launch a funds call for the development and management plan for this protected area.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>biodiversity</keyword>
+              <keyword>Togo</keyword>
+              <keyword>wood fuel</keyword>
+              <keyword>wildlife reserve</keyword>
+              <keyword>vulnerable species</keyword>
+              <keyword>woody species</keyword>
+              <keyword>Djamdé</keyword>
+              <keyword>poaching</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>vegetation fires</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Djamdè Wildlife Reserve is located in the Kozah prefecture (Kara region in northern Togo) (Figure 1), between 9° 31&apos; and 9 ° 35&apos; north latitude and 1° 01&apos; and 1° 05&apos; longitude East. The area of this faunal Reserve is characterized by a Sudano-Guinean climate, marked by two distinct seasons: a dry one from November to April with high temperatures reaching 38-40 °C between March and a rainy season from April to October, with maximum rainfall in August and September. The average annual rainfall is around 1,300 mm and the average temperature is 26 °C.Coordinates: 9°26&apos;31.2&apos;&apos;N and 9°34&apos;51.6&apos;&apos;N Latitude; 1°1&apos;30&apos;&apos;E and 1°6&apos;28.8&apos;&apos;E Longitude, Altitude 520 m.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>1.236</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1.417</eastBoundingCoordinate>
+                      <northBoundingCoordinate>9.343</northBoundingCoordinate>
+                      <southBoundingCoordinate>9.265</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2015-05-05
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-05-20
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Harvested woody plants have been identified up to species level and IUCN status. The dataset contains 126 woody species (Tableau 1) belonging to 40 families (Figure 2) and 94 genera. The most represented families in terms of species are: Fabaceae (28), Combretaceae and Rubiaceae (12), Moraceae (9) and Verbenaceae (5). Dominant genera are Ficus (7 species), Combretum (5) and Terminalia (4).According to the IUCN Red List, 11 (8.73%) of the listed species have an extinction risk status (Figure 3). In detail, these are 4 vulnerable species (Khaya senegalensis, Pouteria alnifolia, Afzelia africana and Albizzia ferruginea), 1 near threatened species (Milicia excelsa) and 5 species of minor concern (Acacia hockii, Detarium microcarpum, Dichrostachys cinerea, Pterocarpus santalinoides, Isoberlinia doka).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Tchagou</givenName>          <surName>Awitazi</surName>
+    </individualName>
+<organizationName>Forestry Resources Office</organizationName>    <address>
+<deliveryPoint>Ministry of Environment and Forestry Resources</deliveryPoint><city>Lomé</city><administrativeArea>Maritim</administrativeArea><postalCode>BP: 355</postalCode><country>TOGO</country>    </address>
+<electronicMailAddress>awitazitchagou@gmail.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Kotchikpa</givenName>          <surName>Okoumassou</surName>
+    </individualName>
+<organizationName>Forestry Resources Office</organizationName><positionName>Commandant des Eaux et Forêts</positionName>    <address>
+<deliveryPoint>Division of Protected Areas and Wildlife</deliveryPoint><city>Lomé</city><administrativeArea>Maritim</administrativeArea><postalCode>BP: 355</postalCode><country>TOGO</country>    </address>
+<electronicMailAddress>okoumassoukotchikpa@yahoo.fr</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The dataset described in this paper was collected over a period of four years.Method step description: a sampling plan was developed for Djamdè Wildlife Reserve from cartographic. A square mesh was made from Arcview 3.2 software. This mesh has made it possible to have plots over the whole reserve. Data collection sheets were manually undressed and the raw data is then compiled using the Excel. Frequency calculations of species number per family were made on the basis of data compiled through analysis of pivot tables in Excel.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The dataset was collected between May 2015 and May 2016.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Floristic inventory was carried out according to the phytosociological stigmatism method of Braun-Blanquet (1932) used in many phytosociological studies in the West African subregion (Akpagana 1989, Sinsin 1993, Kokou, 1998, Wala 2004, Dourma 2008). Sixty (60) survey plots were installed along 10 transects. The size of the plots is 30m * 30m in the savannah and 50m x 5m along the streams. All the plant species present in each plot were noted and assigned an abundance-dominance coefficient according to the Braun Blanquet scale (1932). (+: rare species, recovery of 0-1%, 1 = recovery of 1-5%, 2 = recovery of 5-25%, 3 = recovery of 25-50%, 4 = recovery of 50-75%; = recovery from 75-100%).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Dataset described was updated to match APG classification of angiosperm families (APGIII, 2003). Identification, spelling and authorship of all species was checked using local Togo (Brunel et al., 1984) and Benin (Akoègninou et al., 2006) flora and confirmed against online databases (www.ipni.org; http://www.theplantlist.org/, http://www.ville-ge.ch/musinfo/bd/cjb/africa/recherche.php   IUCN status of each species was obtained using www.iucnredlist.org.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="BID-AF2015-0004-NAC">
+          <title>Development and Management Plan of Djamdè Wildlife Reserve: 2014-2023 period.</title>
+          <personnel>
+    <individualName>
+<givenName>Kotchikpa</givenName>          <surName>Okoumassou</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Honam</givenName>          <surName>Atsri</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Collection of the data in the field was funded by TOGO-FAUNE with technical support of the Forest Resources Office (DRF).Indeed, since the concession of the management of the reserve to Togo-Fauna, many achievements have been made in terms of management. Among others, let&apos;s mention:- the fauna enrichment with two white rhinos, twenty-eight zebras, thirty-five wildebeest coming from South Africa; three elephants from Burkina Faso and fifteen Nyala, buffaloes and sable antelope (Hippotragus niger) from Sarakawa ranching;- the fence of the reserve with electrified wire over 44.6 km of perimeter; the construction of an automobile workshop, a shed, an administrative building, ten visitors houses, two boreholes, an animal sick-bay and seven guard posts along the perimeter of the reserve.</para>
+          </abstract>
+          <funding>
+              <para>The company TOGO-FAUNE invests monthly more than 36K €, for the infrastructures maintenance and the workers’ salaries.The implementation of this project planned to last ten years (2014-2023), provides an estimated budget of 750K€.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>According to the ecofloristic distribution proposed by Ern (1979), the Djamdè Wildlife Reserve is located in Togo Ecological Zone II (Figure 1) which is covered with a mosaic of dry forests of mountain and forest galleries. The climate is Sudano-Guinean. It is targeting by one rainy season (April-October) and one dry season (October-March). The rainy season is characterized by the Harmattan that is a dry and cold wind. Rainfall is irregular and reaches 1200-1300 mm of water per year. The soils are thin and contain a high proportion of coarse elements. Ferruginous tropical soils are also present.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Based on the potentialities and constraints of the reserve, the management plan aims to ensure the sustainable management of its resources; particularly its wildlife resources, through their valorization and effective monitoring, in the perspective of harmonious development of local communities. Specifically: (i) strengthen the organizational and institutional management of the protected area, (ii) consolidate the biological resources monitoring system, (iii) develop tourism, hunting sport and - alternative viable and beneficial socioeconomics activities to local people; with a minimal environmental impact on resources; iv) promote research and ecological monitoring system.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:00Z</dateStamp>
+      <citation>Radji R, AKPENE K (2018). Djamde Wildlife Reserve in Togo: diversity of woody species. Version 1.5. Direction des Ressources Forestières (DRF). Occurrence dataset https://doi.org/10.15468/ugkanx accessed via GBIF.org on 2020-01-20.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

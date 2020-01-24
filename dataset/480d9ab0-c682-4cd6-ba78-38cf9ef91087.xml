@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="480d9ab0-c682-4cd6-ba78-38cf9ef91087"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/e8rhqm</alternateIdentifier>
+        <alternateIdentifier>http://ipt-ghana.gbif.fr/resource?r=plants_of_ghana</alternateIdentifier>
+    <title>Plants of Ghana</title>
+    <creator>
+    <individualName>
+<givenName>Alex</givenName>          <surName>Asase</surName>
+    </individualName>
+<organizationName>University of Ghana</organizationName>    <address>
+<deliveryPoint>P. O. Box LG 55</deliveryPoint><city>Accra</city><administrativeArea>N/A</administrativeArea><postalCode>LG</postalCode><country>GHANA</country>    </address>
+<phone>0244128800</phone><electronicMailAddress>alexasase@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Alex</givenName>          <surName>Asase</surName>
+    </individualName>
+<organizationName>University of Ghana</organizationName>    <address>
+<deliveryPoint>P. O. Box LG 55</deliveryPoint><city>Accra</city><administrativeArea>N/A</administrativeArea><postalCode>LG</postalCode><country>GHANA</country>    </address>
+<phone>0244128800</phone><electronicMailAddress>alexasase@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Alex</givenName>          <surName>Asase</surName>
+    </individualName>
+<electronicMailAddress>alexasase@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-08-06
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset is on species of plants that have been recorded in Ghana</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Ghana</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-3.252</westBoundingCoordinate>
+                      <eastBoundingCoordinate>0.703</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.178</northBoundingCoordinate>
+                      <southBoundingCoordinate>4.784</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Alex</givenName>          <surName>Asase</surName>
+    </individualName>
+<organizationName>University of Ghana</organizationName>    <address>
+<deliveryPoint>P. O. Box LG 55</deliveryPoint><city>Accra</city><administrativeArea>N/A</administrativeArea><postalCode>LG</postalCode><country>GHANA</country>    </address>
+<phone>0244128800</phone><electronicMailAddress>alexasase@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The Brahms software was used in digitisation of herbarium records. Data were cleaned using OpenRefine and QGIS for consistency and duplicates.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The study is based on plant records for Ghana</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>This dataset was compiled based on specimen collections from major herbaria in Ghana, namely, Ghana Herbarium (GC) at the University of Ghana, Savanna Herbarium at the University for Development Studies, Herbarium at the RMSC of the Forestry Commission and Centre for Plant Medicine Research. The dataset also included data from available field notes and literature. The data were cleaned for both consistency and duplicate removed. However, nomenclature was not updated.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project id="BID-AF2015-0032-NAC">
+          <title>Capacity enhancement for Ghana node of Global Biodiversity Information Facility (GBIF))and JRS Biodiversity Foundation.</title>
+          <personnel>
+    <individualName>
+<givenName>Alex</givenName>          <surName>Asase</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>This dataset is on species of plants that have been recorded from Ghana. The dataset was compiled based on information obtained from different sources including herbarium collection, fieldnotes and  literature.</para>
+          </abstract>
+          <funding>
+              <para>Biodiversity Information for Development funded by the European Union. The project also received funding the JRS Biodiversity Foundation.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ghana</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:04Z</dateStamp>
+      <citation>Asase A (2018). Plants of Ghana. Ghana Herbarium. Occurrence dataset https://doi.org/10.15468/e8rhqm accessed via GBIF.org on 2020-01-20.</citation>
+              <bibliography>
+      <citation>Asase, A. and Peterson, A. T., 2016. Completeness of Digital Accessible Knowledge of the Plants of Ghana. Biodiversity Informatics, 11: 1-11</citation>
+              </bibliography>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

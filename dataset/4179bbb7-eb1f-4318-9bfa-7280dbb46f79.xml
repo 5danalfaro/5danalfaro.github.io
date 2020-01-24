@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4179bbb7-eb1f-4318-9bfa-7280dbb46f79"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/1so6av</alternateIdentifier>
+        <alternateIdentifier>http://ipt-guinee.gbif.fr/resource?r=slister</alternateIdentifier>
+    <title>La seconde liste Rouge des plantes menacées de la Guinée (BID-AF2015-0042-NAC)</title>
+    <creator>
+    <individualName>
+<givenName>Boubacar</givenName>          <surName>Sow</surName>
+    </individualName>
+<electronicMailAddress>sowbouba2005@yahoo.fr</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Saïdou</givenName>          <surName>Doumbouya</surName>
+    </individualName>
+<electronicMailAddress>doumbouyasaidou@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Pépé</givenName>          <surName>Guilavogui</surName>
+    </individualName>
+<organizationName>HNG</organizationName><positionName>Botaniste</positionName><electronicMailAddress>guilavoguialbertpepe87@gmail.com</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Nagnouma</givenName>          <surName>Condé</surName>
+    </individualName>
+<organizationName>HNG</organizationName><positionName>Botaniste</positionName><electronicMailAddress>nagnouma112@gmail.com</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Tokpa Sény</givenName>          <surName>Doré</surName>
+    </individualName>
+<organizationName>HNG</organizationName><positionName>Botaniste</positionName><electronicMailAddress>tokpasenydore83@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Saïdou</givenName>          <surName>Doumbouya</surName>
+    </individualName>
+<electronicMailAddress>doumbouyasaidou@yahoo.fr</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-12-06
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Géo-réferencement des échantillons des herbiers européens pour la rapatriement des données pour la liste rouge de Guinée.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Rép. Guinée</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-15.733</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-7.383</eastBoundingCoordinate>
+                      <northBoundingCoordinate>12.683</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.403</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Sékou</givenName>          <surName>Magassouba</surName>
+    </individualName>
+<positionName>Directeur de l&apos;Herbier National</positionName><electronicMailAddress>nationalherbierguine@yahoo.fr</electronicMailAddress>      </contact>
+
+      <project id="BID-AF2015-0042-NAC">
+          <title>”BID-AF2015-0042-NAC: Towards a Red List of the Globally Threatened Plants of Guinea”</title>
+          <personnel>
+    <individualName>
+<givenName>Sékou</givenName>          <surName>MAGASSOUBA</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:02Z</dateStamp>
+      <citation>Sow B, Doumbouya S, Guilavogui P, Condé N, Doré T S (2018). La seconde liste Rouge des plantes menacées de la Guinée (BID-AF2015-0042-NAC). Herbier National de Guinée (HNG). Occurrence dataset https://doi.org/10.15468/1so6av accessed via GBIF.org on 2020-01-20.</citation>
+              <resourceLogoUrl>http://ipt-guinee.gbif.fr/logo.do?r=slister</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

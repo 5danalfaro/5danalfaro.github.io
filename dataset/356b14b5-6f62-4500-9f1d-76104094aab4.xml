@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="356b14b5-6f62-4500-9f1d-76104094aab4"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/txyys4</alternateIdentifier>
+        <alternateIdentifier>http://ipt-cotedivoire.gbif.fr/resource?r=ibaan_02</alternateIdentifier>
+    <title>Echantillon extrait des collections IBAAN</title>
+    <creator>
+    <individualName>
+<givenName>Konan</givenName>          <surName>YAO</surName>
+    </individualName>
+<organizationName>Institut Botanique Aké-Assi d&apos;Andokoi</organizationName><positionName>Vice-Director</positionName>    <address>
+<deliveryPoint>08 BP 172 Abidjan 08</deliveryPoint><city>Abidjan</city><administrativeArea>District autonome d&apos;Abidjan</administrativeArea><postalCode>225</postalCode><country>CÔTE_DIVOIRE</country>    </address>
+<phone>0022508017956</phone><electronicMailAddress>yao83konan@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Emma</givenName>          <surName>Aké-Assi</surName>
+    </individualName>
+<organizationName>Institut Botanique Aké-Assi d&apos;Andokoi</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>08 BP 172 Abidjan 08</deliveryPoint><city>Abidjan</city><administrativeArea>District autonome d&apos;Abidjan</administrativeArea><postalCode>225</postalCode><country>CÔTE_DIVOIRE</country>    </address>
+<phone>0022507464294</phone><electronicMailAddress>emmaaak@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Jean Kouao</givenName>          <surName>KOFFI</surName>
+    </individualName>
+<organizationName>Institut Botanique Aké-Assi d&apos;Andokoi</organizationName><positionName>Staff member</positionName>    <address>
+<deliveryPoint>02 BP 801 Abidjan</deliveryPoint><city>Abidjan</city><postalCode>225</postalCode><country>CÔTE_DIVOIRE</country>    </address>
+<phone>0022547589663</phone><electronicMailAddress>kouaojean@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Béranger</givenName>          <surName>N&apos;Goran</surName>
+    </individualName>
+<organizationName>Centre National de Floristique</organizationName><positionName>Partner</positionName>    <address>
+<deliveryPoint>22 BP 582 Abidjan 22</deliveryPoint><city>Abidjan</city><administrativeArea>District Autonome d&apos;Abidjan</administrativeArea><postalCode>225</postalCode><country>CÔTE_DIVOIRE</country>    </address>
+<phone>0022558415317</phone><electronicMailAddress>kouaberanger@yahoo.fr</electronicMailAddress>    <role>CURATOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-01-18
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Les plantes issues de cette collection ont été récoltées dans diverses écorégions de la Côte d&amp;#39;Ivoire</para>
+    </abstract>
+        <keywordSet>
+              <keyword>plantes de savanes</keyword>
+              <keyword>Côte d&apos;Ivoire</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>plantes de forêts</keyword>
+              <keyword>plantes ubiquistes</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Les plantes issues de cette collection ont été récoltées dans diverses écorégions de la Côte d&apos;Ivoire</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-7.031</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-3.428</eastBoundingCoordinate>
+                      <northBoundingCoordinate>9.276</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.403</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1969-05-19
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2001-06-27
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Plantes</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Emma</givenName>          <surName>Aké-Assi</surName>
+    </individualName>
+<organizationName>Institut Botanique Aké-Assi d&apos;Andokoi</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>08 BP 172 Abidjan 08</deliveryPoint><city>Abidjan</city><administrativeArea>District autonome d&apos;Abidjan</administrativeArea><postalCode>225</postalCode><country>CÔTE_DIVOIRE</country>    </address>
+<phone>0022507464294</phone><electronicMailAddress>emmaaak@yahoo.fr</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project id="BID-AF2015-0066-REG">
+          <title>Capacity building and biodiversity data mobilization for conservation, sustainable use, and decision making in Africa and Madagascar</title>
+          <personnel>
+    <individualName>
+<givenName>Jean Kouao</givenName>          <surName>KOFFI</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>This project to mobilize biodiversity data and identify conservation priorities will be implemented by a consortium of eight African countries – Senegal, Côte-d’Ivoire, Mali, Guinea, DRC, Niger, Madagascar, and Benin.
+Training workshops organized by the University of Kansas will help build the data publishing capacity of project partners. The consortium will identify priority invasive alien species and threatened species for data mobilization, and publish relevant data from collections in France, Netherlands and Belgium. More than 200,000 records of biodiversity data will be made available through GBIF.org and national portals.
+Based on published data, the consortium will develop distribution maps of priority species, suggest actions to monitor and control the spread of invasive alien species and provide recommendations for the conservation of threatened species.</para>
+          </abstract>
+          <funding>
+              <para>The funding of this project is generously provided by European Union in the framework of Biodiversity Information for Development program managed by GBIF Secretariat</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The data digitized and published in the framework of this project are gathered throughout the country members on the targeted species</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Despite its utmost importance to the survival of humanity, biodiversity is subject to many threats. As a significant step toward overcoming these threats, we submit this project in the framework of a consortium of eight African countries - Senegal, Côte-d’Ivoire, Mali, Guinea, DRC, Niger, Madagascar, and Benin - to achieve the following goals: 
+1) Establish and strengthen international collaborations to mobilize biodiversity data; to achieve that goal, we will identify priority invasive alien species and threatened species to be considered in the consortium. We will organize workshops at regional level under the umbrella of the University of Kansas (USA), our Non-ACP partner, to capacitate project partners. We will digitize and publish data of consortium countries deposited in France, Netherlands, and Belgium. 
+2) Increase available biodiversity data, within and beyond the grant period, by capacitating and providing financial assistance to in-country partners to encourage them mobilize and publish their data through GBIF and national portals. 
+3) Apply biodiversity data in response to conservation priorities by achieving the following: elaborate distribution maps of threatened species and invasive alien species; identify the main threats to species and suggest efficient actions to protect and conserve them; identify and suggest efficient actions to monitor and eradicate invasive alien species; evaluate the efficiency of protected areas with respect to biodiversity conservation and make adequate suggestions; finally, from our results, elaborate and broadcast communication and outreach via diverse media so as to demonstrate to policy- and decision-makers the value chain: data → knowledge → applications.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:02Z</dateStamp>
+      <citation>YAO K, Aké-Assi E, KOFFI J K (2018). Echantillon extrait des collections IBAAN. INSTITUT BOTANIQUE AKE-ASSI D’ANDOKOI (IBAAN). Occurrence dataset https://doi.org/10.15468/txyys4 accessed via GBIF.org on 2020-01-20.</citation>
+              <bibliography>
+      <citation>AKE-ASSI L. (2002). Flore de la Côte d&apos;Ivoire: catalogue systématique, biogéographie et écologie. Boissiera 58: 1-401.
+
+AKE-ASSI L. (2001). Flore de la Côte-d&apos;Ivoire: catalogue systématique, biogéographique et écologie. Boissiera 57: 1-396.
+
+AKE-ASSI L. (1988). Espèces rares et en voie d&apos;extinction de la flore de la Côte d&apos;Ivoire. Monographs in Systematic Botany from the Missouri Botanical Garden 25: 461-
+463.</citation>
+              </bibliography>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

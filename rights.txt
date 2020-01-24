@@ -1,0 +1,223 @@
+
+Dataset: Herbier Ecole de Faune
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Field Museum of Natural History (Botany)  Seed Plant Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Djamde Wildlife Reserve in Togo: diversity of woody species
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Data mobilized by the National Herbarium of Benin in the framework of the JRS Biodiversity project of Benin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Medicinal potential of African plants (Togo)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Botany (UPS)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Données d'occurrence de l'Herbier de l'Université Jean Lorougnon Guédé
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Université Pédagogique Nationale de Kinshasa (UPN). Plantes phytosanitaires. - Projet CABIN
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Foretclasseemissahoe
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbier National de Guinée (HNG)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Plants Of Nnamdi Azikiwe University Herbarium (NAUH) Awka
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: La liste (3) Rouge des plantes menacées de la Guinée
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Graz, Institute of Plant Sciences - Herbarium GZU
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Some Angiosperm Data of the Forest Herbarium Ibadan (FHI) Nigeria
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Canadian Museum of Nature Palynology Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventaire des plantes alimentaires au Bénin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Université Pédagogique Nationale de Kinshasa (UPN). Plantes phytosanitaires. - Projet CABIN
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Echantillon extrait des collections IBAAN
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: La seconde liste Rouge des plantes menacées de la Guinée (BID-AF2015-0042-NAC)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Inventory of Bonou, Kilibo and Lama forests (South and centre Benin)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Espèces végétales inventoriées dans les formations et strates de la forêt communautaire de Koussountou au Togo en 2017.
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventory of plant species through Benin (West Africa)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Census in Agrimey forest reserve (southern Benin)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Espèces végétales inventoriées dans les formations et strates de la forêt classée de Missahoe au Togo en 2017.
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The Vascular Plant Collection at the Botanische Staatssammlung München
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CSIC-Real Jardín Botánico-Colección de Plantas Vasculares (MA)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Relevé floristique dans les bassins du fleuve Milo à Kankan	(CESP2016-022)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Biocultural Collection at the Natural History Museum of Denmark
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Royal Museum of Central Africa - Metafro-Infosys - Xylarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Collection of botanical drawings by Georg Schweinfurth at Herbarium Berolinense, Berlin (B)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NMNH Extant Specimen Records
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Herbarium Berolinense, Berlin (B)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SysTax - Botanical Gardens
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Occurrences des échantillons de plantes de l'Herbier du Centre Suisse de Recherches Scientifiques (CSRS) en Côte d'Ivoire
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Moscow University Herbarium (MW)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: International Barcode of Life project (iBOL)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Phanerogamic Botanical Collections (S)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: The AAU Herbarium Database
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Herbarium specimens of Université de Montpellier 2, Institut de Botanique (MPU))
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Occurrences des échantillons de plantes de l'Herbier de l'Institut Botanique Aké-Assi d'Andokoi (IBAAN), Côte d'Ivoire
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Additional list of gregarous Benin valuable species
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Données d'occurrences des spécimens des plantes menacées du Sénégal conservés à  l'Herbier de l'IFAN.
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tropicos Specimen Data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: List of medicinal and agroforestry plants found in various ecosystems of Benin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Liste des récoltes par Herbier de dépôt TOGO
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Royal Botanic Garden Edinburgh Herbarium (E)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Herbier CNRST/INERA
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Census of the flora of Benin
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Species composition in  twelve (12)  Afzelia africana  Sm & Pers populations in Benin.
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Plants of Ghana
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Medicinal plants and associated plant collections at Ghana Herbarium
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Census of fodder species through central and north of Benin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Togo National Herbarium Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Forest edible fruits from Cameroon
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Etude exploratoire des communautés végétales des forêts classées de Kilibo et Youi
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: herbarium_database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbier du Bénin
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Liste des pays par taxon spécimen TOGO
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Census of plant species in Monts-Kouffè regions, center Benin
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Inventaire floristique dans le cadre le cadre de l'Aménagement de la forêt classé de l'Amou-Mono (Togo)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventory of plant species in the municipal forests of Nonsinasson, Gbede, Pele, Toukou, Fita, Wogbo, Bobe (Benin, West Africa)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Royal Botanic Gardens, Kew - Herbarium Specimens
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Distribution de quelques espèces végétales du Bénin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Les Rubiaceae, Orchidaceae, Moraceae, Sapindaceae, Malvaceae, Melastomataceae, Verbenaceae, Loganiaceae, Sapotaceae, Scrophulariaceae, Sterculiaceae, Liliaceae, Meliaceae, Ochnaceae, Tiliaceae, Rosaceae, Solanaceae, Violaceae, Zingiberaceae, Myrtaceae, Rutaceae, Loranthaceae et quelques 71 autres familles de plantes de l'Herbier du Centre National de Floristique en Côte d'Ivoire.
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Census of medicinal plants of Benin.
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Carnet en Ligne
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Plan Aménagement et de Gestion Simplifié (PAGS) des forèts sacrées des départements de l'Ouémé-Plateau et le Collines. Données mobilisées dans le cadre du projet JRS Bénin
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Bassins versants de vere et nalon (BID-AF2015-0066-REG)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Liste de quelques espèces à statuts particuliers de l'herbier du Centre National de Floristique (CNF) en Côte d'Ivoire
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbarium Senckenbergianum (FR)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Distribution de quelques espèces de plantes et de Mimusops andongensis au Bénin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Biodiversité végétale de quelques écosystèmes au Bénin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventory of Penessoulou forest (North West Benin)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Census of the threatened species of Benin.
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Geographically tagged INSDC sequences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventory of Dogo-Kétou forest (South-Benin). Data mobilized in the framework of JRS Biodiversity Foundation project
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Gregarous Benin valuable species
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Diversité et distribution de quelques espèces de plantes agroforestières au Bénin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventory of Bassila forest (North-Benin)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Forest inventory for above ground carbon estimation in  Biosphere Reserve of W.
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Census of the species of Benin. Data mobilized in the framework of JRS Benin project and funded by JRS Biodiversity Foundation
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Meise Botanic Garden Herbarium (BR)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Floral inventory of the natural pastures of the municipalities bordering the W Transboundary Biosphere Reserve in the Alibori department and the municipalities of Dassa_Zoume and Glazoué in the Collines department (Benin).
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Royal Botanic Gardens, Kew - Economic Botany Collection Specimens
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Diversité des plantes des parcours naturels et des forêts  au Bénin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ecological inventory of Borassus aethiopum (Mart.) populations in the Pendjari Biosphere Reserve, Benin. Data mobilized in the framework of JRS Benin project
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventory of Wari maro forest (Benin)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Census of species recorded during phytosociological surveys in Benin
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Data on agroforestry plant species of Benin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Plant inventory of W Biosphere reserve (North-Benin). Data mobilized in the framework of JRS Biodiversity Foundation project
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Plan d'Aménagement participative de la Forêt Classée d'Alédjo (Togo)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A global database for the distributions of crop wild relatives
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Botany
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Census of medicinal and agroforestry plants of Benin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Elaboration de table de tarif de cubage multispécifique (I)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Agroforestry plant species found in protected areas and riparian lands in Sudano-guinean and Sudanian agroecological zones. Data mobilized in the framework of BID National project BID-AF2015-0065-NAC and funded by EU
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: African Plants - a photo guide
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Agroforestry species in Parkia biglobosa's parklands in Northern Benin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Distribution de quelques espèces de plantes agroforestières et médicinales au Bénin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Study of medicinal and energy plants from Benin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Census of plant species of Benin (West Africa): Database4
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The vascular plants collection (P) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Census of agroforestry plant species of Benin (West Africa) by SOS Biodiversity
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: West African Vegetation Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Elaboration du tarif de cubage multispécifique
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: FLOTROP, a massive contribution to plant diversity data for open ecosystems in Tropical Africa.
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Diversité des espèces menacées des zones classées et terroirs villageois du Bénin (Afrique de l'Ouest).
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Diversité floristique des espèces menacées prioritaires du Bénin (Afrique de l'Ouest).
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The census of national forest of  Benin .
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode

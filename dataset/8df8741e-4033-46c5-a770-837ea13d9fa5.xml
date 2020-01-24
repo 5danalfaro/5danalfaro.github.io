@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8df8741e-4033-46c5-a770-837ea13d9fa5"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/jbqjzg</alternateIdentifier>
+        <alternateIdentifier>http://ipt-cameroun.gbif.fr/resource?r=hefg</alternateIdentifier>
+        <alternateIdentifier>http://lis-02.snv.jussieu.fr/ipt_cameroun/resource.do?r=hefg</alternateIdentifier>
+        <alternateIdentifier>8df8741e-4033-46c5-a770-837ea13d9fa5</alternateIdentifier>
+        <alternateIdentifier>12796</alternateIdentifier>
+    <title>Herbier Ecole de Faune</title>
+    <creator>
+    <individualName>
+<givenName>Dong</givenName>          <surName>à Etchike</surName>
+    </individualName>
+<organizationName>EFG</organizationName>    <address>
+<deliveryPoint>BP 271</deliveryPoint><city>Garoua</city><administrativeArea>Nord</administrativeArea><country>CAMEROON</country>    </address>
+<phone>77731120/22161796</phone><electronicMailAddress>etchikedong@yahoo.fr</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Dong</givenName>          <surName>à Etchike</surName>
+    </individualName>
+<organizationName>EFG</organizationName>    <address>
+<deliveryPoint>BP 271</deliveryPoint><city>Garoua</city><administrativeArea>Nord</administrativeArea>    </address>
+<phone>77731120/22161796</phone><electronicMailAddress>etchikedong@yahoo.fr</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2016-06-28
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Echantillons botaniques du Cameroun</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Savanes, zones humides et forêt claire</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1970
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1970
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1970
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1970
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Dong</givenName>          <surName>à Etchike</surName>
+    </individualName>
+<organizationName>EFG</organizationName>    <address>
+<deliveryPoint>BP 271</deliveryPoint><city>Garoua</city><administrativeArea>Nord</administrativeArea><country>CAMEROON</country>    </address>
+<phone>77731120/22161796</phone><electronicMailAddress>etchikedong@yahoo.fr</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:00Z</dateStamp>
+      <citation>à Etchike D (2016). Herbier Ecole de Faune. Version 2.1. Ecole de Faune de Garoua. Occurrence dataset https://doi.org/10.15468/jbqjzg accessed via GBIF.org on 2020-01-20.</citation>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName></collectionName>
+              </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

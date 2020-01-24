@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="37d71109-216b-461d-b3a4-a100eef077cc"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/9fvpm9</alternateIdentifier>
+        <alternateIdentifier>http://ipt-benin.gbif.fr/resource?r=kakpo_02</alternateIdentifier>
+    <title>Census of agroforestry plant species of Benin (West Africa) by SOS Biodiversity</title>
+    <creator>
+    <individualName>
+<givenName>Sunday Berlioz</givenName>          <surName>KAKPO</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences, University of Abomey-Calavi</organizationName><positionName>Research Assistant</positionName>    <address>
+<city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<phone>+22997123391</phone><electronicMailAddress>kakposunday@yahoo.fr</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Sunday Berlioz</givenName>          <surName>KAKPO</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences, University of Abomey-Calavi</organizationName><positionName>Research Assistant</positionName>    <address>
+<city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<phone>+22997123391</phone><electronicMailAddress>kakposunday@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Jean</givenName>          <surName>Ganglo</surName>
+    </individualName>
+<electronicMailAddress>ganglocj@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>List of agroforestry plant species recorded in the framework of different fieldwork to achieve several degrees at the university of Abomey-Calavi, Benin</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Benin</keyword>
+              <keyword>protected area</keyword>
+              <keyword>West Africa</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>agroforestry species</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>List of agroforestry plant species recorded in the framework of different fieldwork to achieve several degrees at the university of Abomey-Calavi, Benin</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>0.96</westBoundingCoordinate>
+                      <eastBoundingCoordinate>3.7</eastBoundingCoordinate>
+                      <northBoundingCoordinate>12.38</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.36</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1997-06-02
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-06-30
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Plantes</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Sunday Berlioz</givenName>          <surName>KAKPO</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences, University of Abomey-Calavi</organizationName><positionName>Research Assistant</positionName>    <address>
+<city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<phone>+22997123391</phone><electronicMailAddress>kakposunday@yahoo.fr</electronicMailAddress>      </contact>
+
+      <project id="BID-AF2015-0065-NAC">
+          <title>Capacity building and biodiversity data mobilization to address health and food security priorities in Benin</title>
+          <personnel>
+    <individualName>
+<givenName>Jean Cossi</givenName>          <surName>GANGLO</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>This project mobilizes data about medicinal plants and multipurpose agroforestry plant species in Benin, strengthening the national network’s capacity and promoting the use of these data in biodiversity conservation.
+To achieve this, priority medicinal plants known to treat malaria and important agroforestry species in use in the country are being identified, and workshops on data mobilization and data use are organized. Over 59,000 data records will be published through GBIF.org and the GBIF Benin portal. Relevant data held in collections in France, Netherlands and Belgium are also being gathered and will be published.
+The project maps the distribution of targeted species and will suggest conservation strategies to policy makers during workshops on the conservation and sustainable use of these species.</para>
+          </abstract>
+          <funding>
+              <para>The funding of this project is generously provided by European Union in the framework of Biodiversity Information for Development program managed by GBIF Secretariat</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The data digitized and published in the framework of this project are gathered throughout the whole country on the targeted species</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The design is detailed according to the objectives of the project
+1) Establish and strengthen national biodiversity information facilities; to achieve this, we will identify priority medicinal plants renowned in healing malaria and priority multipurpose agroforestry plant species used by Beninese. We will organize workshops to capacitate partners to enable them mobilize and use data. We will also digitize, and publish Benin data deposited in France, Netherlands, and Belgium.
+
+2)  Increase available biodiversity data, within and beyond the grant period by providing technical and financial assistance to partner institutions to help them digitize their data. Data mobilized and checklists will be published through GBIF and GBIF Benin portals.
+
+3) Apply biodiversity data in response to national priorities by achieving distribution maps and ecological niche models of the targeted species; we will suggest strategies to conserve and use species and make conclusions on how relevant protected areas are today and in the future with respect to biodiversity conservation and make adequate suggestions to increase their efficiency in protecting biodiversity. Finally, communications and outreach will be elaborated and broadcasted via diverse media to demonstrate to policy and decision makers the value chain: data → knowledge → applications.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:09Z</dateStamp>
+      <citation>KAKPO S B (2017). Census of agroforestry plant species of Benin (West Africa) by SOS Biodiversity. Laboratory of Forest Sciences (University of Abomey-Calavi). Occurrence dataset https://doi.org/10.15468/9fvpm9 accessed via GBIF.org on 2020-01-20.</citation>
+              <bibliography>
+      <citation>Clément SEWADE, 2007. Z ;ones villageoises de chasse le long de la chaîne de l’atacora (AXE TANGUIETA-BATIA) : habitat, richesse faunique, cadre technique, gestion et viabilité. Diplôme d’Ingénieur Agronome, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin.						
+Cohomlan Hubert Olivier DOSSOU – YOVO, 2007. Diversity of plants in relation with termite mounds in National Park of Pendjari and surrounding areas. Diplôme d’Ingénieur Agronome, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin.						
+GLITO S. Mathias Renaud, 2006. Distribution géographique des ressources fourragères disponibles pour nourrir l’aulacode d’élevage au Bénin. Diplôme d’Ingénieur Agronome, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin. Diplôme d’Ingénieur Agronome, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin.						
+Lidwine Egnomby DOSSOU, 2008. Diversite biologique et modes d’utilisation des especes ligneuses alimentaires de la forêt classee de penessoulou. Diplôme d’Ingénieur Agronome, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin.						
+Raoul ODJO DOHOU, 2006. Contribution méthodologique a l’étude de la répartition spatiale des arbres: détermination de l’aire optimale d’étude de la répartition spatiale des arbres dans un peuplement à dominance Isoberlinia spp dans la forêt classée de Wari-maro (centre-BENIN). Diplôme d’Ingénieur Agronome, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin.						
+Samson A. DOGNIMON, 2014. Etude diagnostique du cantonnement forestier de Dassa-Zoumè et recensement des plantes médicinales utilisées dans le traitement des maladies mentales. Licence Professionnelle, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin.						
+Adjakou Akoutan ADJINDA, 2002. Contribution of sustainable management of community forest of ouèssè: case of Idadjo and Gbede. Diplôme d’Ingénieur Agronome, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin.						
+ATINDOGBE Gilbert, 2004. Analyse de la structure spatiale des arbres : Application à l’enrichissement des savanes boisées de la zone soudanienne au Bénin. Diplôme d’Ingénieur Agronome, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin.						
+YAYI AMBROISE CKAFFARA, 1998. Contribution à l’aménagement de la forêt classée de l’Ouémé supérieur au Nord du Bénin : structure et dynamique des différents groupements végétaux. Diplôme d’Ingénieur Agronome, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin.						
+Cadine ALLADASSI, 2011. Fonctionnement et gestion des écosystèmes naturels : Productivité et Capacité de charge des pâturages naturels de la Réserve de Biosphère Transfrontalière du W (BENIN). Diplôme d’Ingénieur Agronome, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin.						
+Joseph Mahugnon KIKI, 2005. Analyse de la structure spatiale des arbres des peuplements a dominance isoberlinia spp. craib &amp; stapf du centre-Bénin. Diplôme d’Ingénieur Agronome, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin.						
+Wassilatou ABDOU IBRAHIMA, 2011. Jardins de case et conservation de la diversité biologique et bioculturelle dans la zone soudano-guinéenne du Bénin. Diplôme d’Ingénieur Agronome, Faculté des Sciences Agronomiques, Université d’Abomey-Calavi, Bénin.</citation>
+              </bibliography>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

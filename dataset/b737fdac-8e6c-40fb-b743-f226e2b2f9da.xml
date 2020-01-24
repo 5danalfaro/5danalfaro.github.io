@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b737fdac-8e6c-40fb-b743-f226e2b2f9da"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/iokuu0</alternateIdentifier>
+        <alternateIdentifier>http://ipt-benin.gbif.fr/resource?r=koura</alternateIdentifier>
+    <title>Agroforestry species in Parkia biglobosa&apos;s parklands in Northern Benin</title>
+    <creator>
+    <individualName>
+<givenName>Kourouma</givenName>          <surName>KOURA</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences</organizationName><positionName>Assistant</positionName>    <address>
+<deliveryPoint>04 BP0004 Cotonou-Bénin</deliveryPoint><city>Calavi</city><administrativeArea>Atlantique</administrativeArea><country>BENIN</country>    </address>
+<phone>+22996716130</phone><electronicMailAddress>kourakourouma@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Kourouma</givenName>          <surName>KOURA</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences</organizationName><positionName>Assistant</positionName>    <address>
+<deliveryPoint>04 BP0004 Cotonou-Bénin</deliveryPoint><city>Calavi</city><administrativeArea>Atlantique</administrativeArea><country>BENIN</country>    </address>
+<phone>+22996716130</phone><electronicMailAddress>kourakourouma@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Jean</givenName>          <surName>Ganglo</surName>
+    </individualName>
+<electronicMailAddress>ganglocj@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-08-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The database includes a list of agroforestry species collected in Parkia biglobosa&amp;#39;s parklands in Atacora, Donga, Borgou, Alibori (Northern of Benin)</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Alibori</keyword>
+              <keyword>Atacora</keyword>
+              <keyword>Borgou</keyword>
+              <keyword>Parkia biglobosa&apos;s parklands</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>Donga</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The database includes a list of agroforestry species collected in Parkia biglobosa&apos;s parklands in Atacora, Donga, Borgou, Alibori (Northern of Benin)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>0.99</westBoundingCoordinate>
+                      <eastBoundingCoordinate>3.55</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.86</northBoundingCoordinate>
+                      <southBoundingCoordinate>8.84</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2008-11-26
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2009-12-23
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Plants</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Kourouma</givenName>          <surName>KOURA</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences</organizationName><positionName>Assistant</positionName>    <address>
+<deliveryPoint>04 BP0004 Cotonou-Bénin</deliveryPoint><city>Calavi</city><administrativeArea>Atlantique</administrativeArea><country>BENIN</country>    </address>
+<phone>+22996716130</phone><electronicMailAddress>kourakourouma@gmail.com</electronicMailAddress>      </contact>
+
+      <project id="BID-AF2015-0065-NAC">
+          <title>Capacity building and biodiversity data mobilization to address health and food security priorities in Benin</title>
+          <personnel>
+    <individualName>
+<givenName>Jean</givenName>          <surName>GANGLO</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>This project mobilizes data about medicinal plants and multipurpose agroforestry plant species in Benin, strengthening the national network’s capacity and promoting the use of these data in biodiversity conservation.
+To achieve this, priority medicinal plants known to treat malaria and important agroforestry species in use in the country are being identified, and workshops on data mobilization and data use are organized. Over 59,000 data records will be published through GBIF.org and the GBIF Benin portal. Relevant data held in collections in France, Netherlands and Belgium are also being gathered and will be published.
+The project maps the distribution of targeted species and will suggest conservation strategies to policy makers during workshops on the conservation and sustainable use of these species.</para>
+          </abstract>
+          <funding>
+              <para>The funding of this project is generously provided by European Union in the framework of Biodiversity Information for Development program managed by GBIF Secretariat</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The data digitized and published in the framework of this project are gathered throughout the whole country on the targeted species</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The design is detailed according to the objectives of the project
+1) Establish and strengthen national biodiversity information facilities; to achieve this, we will identify priority medicinal plants renowned in healing malaria and priority multipurpose agroforestry plant species used by Beninese. We will organize workshops to capacitate partners to enable them mobilize and use data. We will also digitize, and publish Benin data deposited in France, Netherlands, and Belgium.
+
+2)  Increase available biodiversity data, within and beyond the grant period by providing technical and financial assistance to partner institutions to help them digitize their data. Data mobilized and checklists will be published through GBIF and GBIF Benin portals.
+
+3) Apply biodiversity data in response to national priorities by achieving distribution maps and ecological niche models of the targeted species; we will suggest strategies to conserve and use species and make conclusions on how relevant protected areas are today and in the future with respect to biodiversity conservation and make adequate suggestions to increase their efficiency in protecting biodiversity. Finally, communications and outreach will be elaborated and broadcasted via diverse media to demonstrate to policy and decision makers the value chain: data → knowledge → applications.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:09Z</dateStamp>
+      <citation>KOURA K (2017). Agroforestry species in Parkia biglobosa&apos;s parklands in Northern Benin. Laboratory of Forest Sciences (University of Abomey-Calavi). Occurrence dataset https://doi.org/10.15468/iokuu0 accessed via GBIF.org on 2020-01-20.</citation>
+              <bibliography>
+      <citation>Koura K, Dissou EF, Ganglo JC. 2013. Caractérisation écologique et structurale des parcs à néré [Parkia biglobosa (Jacq.) R. Br. ex G. Don] du département de la Donga au Nord-Ouest du Bénin. Int. J. Biol. Chem. Sci. 7(2): 726-738						
+Koura K, 2014. Gestion durable des parcs à Parkia biglobosa (Jacq.) R. Br. du Nord-Bénin (Afrique de l’Ouest) : ethnobotanique, structure, caractéristiques physico-chimique et génétique. Thèse de Doctorat Unique en Sciences Agronomiques, FSA/UAC, 203 p, + annexes</citation>
+              </bibliography>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

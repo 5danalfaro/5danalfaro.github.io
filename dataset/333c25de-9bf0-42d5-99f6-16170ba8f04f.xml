@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="333c25de-9bf0-42d5-99f6-16170ba8f04f"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/uh8zby</alternateIdentifier>
+    <title>Université Pédagogique Nationale de Kinshasa (UPN). Plantes phytosanitaires. - Projet CABIN</title>
+    <creator>
+<organizationName>Université Pédagogique Nationale, Kinshasa, RD. Congo</organizationName>    </creator>
+    <metadataProvider>
+<organizationName>Martin Claude KIALU MULUILE</organizationName><electronicMailAddress>claudekialu@yahoo.fr</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2015-01-01
+      </pubDate>
+    <language>en</language>
+    <abstract>
+        <para></para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+          <surName>Martin Claude KIALU MULUILE</surName>
+    </individualName>
+<electronicMailAddress>claudekialu@yahoo.fr</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:02Z</dateStamp>
+      <citation>Royal Museum for Central Africa, Belgium (2015). Université Pédagogique Nationale de Kinshasa (UPN). Plantes phytosanitaires. - Projet CABIN. Occurrence dataset https://doi.org/10.15468/uh8zby accessed via GBIF.org on 2020-01-20.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

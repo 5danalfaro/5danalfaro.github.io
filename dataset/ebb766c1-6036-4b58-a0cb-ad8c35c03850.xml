@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ebb766c1-6036-4b58-a0cb-ad8c35c03850"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/9tfduu</alternateIdentifier>
+        <alternateIdentifier>http://ipt-benin.gbif.fr/resource?r=census_plants_monts_kouffe</alternateIdentifier>
+        <alternateIdentifier>ebb766c1-6036-4b58-a0cb-ad8c35c03850</alternateIdentifier>
+        <alternateIdentifier>http://lis-02.snv.jussieu.fr/ipt_benin/resource?r=census_plants_monts_kouffe</alternateIdentifier>
+    <title>Census of plant species in Monts-Kouffè regions, center Benin</title>
+    <creator>
+    <individualName>
+<givenName>Charles Nounagnon</givenName>          <surName>GAGNIBO</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences</organizationName><positionName>Scientist</positionName>    <address>
+<deliveryPoint>BP: 1493</deliveryPoint><city>Abomey-Calavi</city><administrativeArea>Atlantic</administrativeArea><country>BENIN</country>    </address>
+<phone>(+229) 97398973</phone><electronicMailAddress>charlaco2000@yahoo.fr</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Alain Jaurès</givenName>          <surName>Gbètoho</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences</organizationName><positionName>Scientist</positionName>    <address>
+<deliveryPoint>BP 1493 Abomey-Calavi</deliveryPoint><city>Cotonou</city><administrativeArea>Littoral</administrativeArea><country>BENIN</country>    </address>
+<phone>(229)96833454</phone><electronicMailAddress>gljaures@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Sophie</givenName>          <surName>Pamerlon</surName>
+    </individualName>
+<electronicMailAddress>pamerlon@gbif.fr</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2016-06-24
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>List and geographic position of plant species inventoried in pastures near Wari-Maro and Monts-Kouffè forest reserves</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Monts-Kouffè regions in North Benin (Astride Donga and Borgou departements)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>1.667</westBoundingCoordinate>
+                      <eastBoundingCoordinate>2.5</eastBoundingCoordinate>
+                      <northBoundingCoordinate>9.267</northBoundingCoordinate>
+                      <southBoundingCoordinate>8.417</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1998-06-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1998-06-30
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>Alismatales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Arecales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Asparagales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Asterales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Capparales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Caryophyllales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Celastrales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Commelinales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cycadales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dioscoreales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ericales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Fabales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Gentianales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lamiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Liliales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Magnoliales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Malpighiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Malvales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myrtales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Nymphaeales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Oxalidales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Poales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Proteales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ranunculales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rosales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Santalales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sapindales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scrophulariales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Solanales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Theales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Violales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vitales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Zingiberales</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Jean Cossi</givenName>          <surName>Ganglo</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences</organizationName><positionName>Scientist</positionName>    <address>
+<deliveryPoint>BP 1493 Abomey-Calavi</deliveryPoint><city>Abomey-Calavi</city><administrativeArea>Atlantic</administrativeArea><country>BENIN</country>    </address>
+<phone>(+229) 66363770</phone><electronicMailAddress>ganglocj@gmail.com</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:05Z</dateStamp>
+      <citation>GAGNIBO C N, Gbètoho A J (2016). Census of plant species in Monts-Kouffè regions, center Benin. Version 1.1. GBIF Benin. Occurrence dataset https://doi.org/10.15468/9tfduu accessed via GBIF.org on 2020-01-20.</citation>
+              <bibliography>
+      <citation>Houinato, M.R.B. 2001. Phytosociologie, écologie, production et capacité de charge des formations végétales pâturées dans la région des Monts Kouffé (Bénin). Thèse de Doctorat, Université Libre de Bruxelles, 219p+annexes</citation>
+              </bibliography>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

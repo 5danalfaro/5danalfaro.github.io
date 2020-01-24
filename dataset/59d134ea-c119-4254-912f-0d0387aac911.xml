@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="59d134ea-c119-4254-912f-0d0387aac911"  system="http://gbif.org" scope="system"
+  xml:lang="fr">
+
+<dataset>
+      <alternateIdentifier>10.15468/tvkgbl</alternateIdentifier>
+        <alternateIdentifier>59d134ea-c119-4254-912f-0d0387aac911</alternateIdentifier>
+        <alternateIdentifier>http://ipt-togo.gbif.fr/resource?r=koussountou</alternateIdentifier>
+    <title>Espèces végétales inventoriées dans les formations et strates de la forêt communautaire de Koussountou au Togo en 2017.</title>
+    <creator>
+    <individualName>
+<givenName>Jean-Marc</givenName>          <surName>GNAMA</surName>
+    </individualName>
+<organizationName>Direction des Ressources Forestières (DRF)</organizationName><positionName>Chercheur</positionName>    <address>
+<deliveryPoint>52, QAD Rue de la Kozah BP:355, Lomé TOGO</deliveryPoint><city>Lomé</city><administrativeArea>Maritime</administrativeArea><postalCode>355</postalCode><country>TOGO</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Koudjo</givenName>          <surName>AKPENE</surName>
+    </individualName>
+<organizationName>UNVERSITE DE LOME</organizationName><positionName>Informaticien</positionName>    <address>
+<deliveryPoint>01bp:1515 lome1</deliveryPoint><city>Lome</city><administrativeArea>Maritim</administrativeArea><postalCode>01bp:1515</postalCode><country>TOGO</country>    </address>
+<phone>+22890038866</phone><electronicMailAddress>koudjoa@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Yao</givenName>          <surName>APLA</surName>
+    </individualName>
+<organizationName>Direction des Ressources Forestières (DRF)</organizationName>    <address>
+<deliveryPoint>52, QAD Rue de la Kozah BP:355, Lomé TOGO</deliveryPoint><city>Lomé</city><administrativeArea>Maritime</administrativeArea><postalCode>355</postalCode><country>TOGO</country>    </address>
+<phone>+22890264889</phone>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2019-07-15
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>73 espèces végétales ont été inventoriées lors de l’inventaire. Ces espèces sont regroupées en 47 genres, 25 familles et 14 ordres. Les principales familles sont les, Moraceae, Fabaceae, Mimosaceae. Les ordres les plus représentés sont les Fabales et les myrtales. 
+
+Les présentes données portant sur la richesse spécifique du peuplement principal de la Forêt communautaire de Koussountou, ont été obtenues lors de la réalisation en 2017 de l’inventaire forestier dans ladite forêt Située dans la région centrale, préfecture de Tchamba plus précisément dans le canton de Koussountou, entre les Longitudes 1°26’30” Est et 1°24’07”Ouest et les Latitudes 8° 43’14” Sud et 8°49’42”Nord, la FCK couvre les terroirs des villages de Koussountou. Elle couvre une superficie d’environ 3.120,20 ha.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Les présentes données portant sur la richesse spécifique du peuplement principal de la Forêt communautaire de Koussountou, ont été obtenues lors de la réalisation en 2017 de l’inventaire forestier dans ladite forêt Située dans la région centrale, préfecture de Tchamba plus précisément dans le canton de Koussountou, entre les Longitudes 1°26’30” Est et 1°24’07”Ouest et les Latitudes 8° 43’14” Sud et 8°49’42”Nord, la FCK couvre les terroirs des villages de Koussountou. Elle couvre une superficie d’environ 3.120,20 ha.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>1</westBoundingCoordinate>
+                      <eastBoundingCoordinate>1</eastBoundingCoordinate>
+                      <northBoundingCoordinate>8</northBoundingCoordinate>
+                      <southBoundingCoordinate>8</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Yao</givenName>          <surName>APLA</surName>
+    </individualName>
+<organizationName>Direction des Ressources Forestières (DRF)</organizationName>    <address>
+<deliveryPoint>52, QAD Rue de la Kozah BP:355, Lomé TOGO</deliveryPoint><city>Lomé</city><administrativeArea>Maritime</administrativeArea><postalCode>355</postalCode><country>TOGO</country>    </address>
+<phone>+22890264889</phone>      </contact>
+
+      <project id="BID-AF2015-0004-NAC">
+          <title>Espèces végétales inventoriées dans les formations et strates de la forêt communautaire de Koussountou au Togo en 2017.</title>
+          <personnel>
+    <individualName>
+<givenName>Yao</givenName>          <surName>APLA</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Les présentes données portant sur la richesse spécifique du peuplement principal de la Forêt communautaire de Koussountou, ont été obtenues lors de la réalisation en 2017 de l’inventaire forestier dans ladite forêt Située dans la région centrale, préfecture de Tchamba plus précisément dans le canton de Koussountou, entre les Longitudes 1°26’30” Est et 1°24’07”Ouest et les Latitudes 8° 43’14” Sud et 8°49’42”Nord, la FCK couvre les terroirs des villages de Koussountou. Elle couvre une superficie d’environ 3.120,20 ha.</para>
+          </abstract>
+          <funding>
+              <para>La mise en ligne de ce jeu de données est rendue possible grâce aux activités du projet BID au Togo; projet financé par l&apos;Union Européenne et piloté par GBIF</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:02Z</dateStamp>
+      <citation>GNAMA J, AKPENE K (2019). Espèces végétales inventoriées dans les formations et strates de la forêt communautaire de Koussountou au Togo en 2017.. Version 1.2. Direction des Ressources Forestières (DRF). Occurrence dataset https://doi.org/10.15468/tvkgbl accessed via GBIF.org on 2020-01-20.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

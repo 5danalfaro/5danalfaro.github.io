@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="31a29499-0189-4c72-975b-eede9114d550"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/1ojlip</alternateIdentifier>
+        <alternateIdentifier>http://ipt-senegal.gbif.fr/resource?r=ifan_03</alternateIdentifier>
+    <title>Données d&apos;occurrences des spécimens des plantes menacées du Sénégal conservés à  l&apos;Herbier de l&apos;IFAN.</title>
+    <creator>
+    <individualName>
+<givenName>Mathieu</givenName>          <surName>GUEYE</surName>
+    </individualName>
+<organizationName>IFAN Ch. A. Diop</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Corniche Ouest UCAD</deliveryPoint><city>Dakar</city><administrativeArea>Dakar</administrativeArea><postalCode>221</postalCode><country>SENEGAL</country>    </address>
+<phone>221776356126</phone><electronicMailAddress>gueye_guirane@yahoo.fr</electronicMailAddress><onlineUrl>http://ucad.sn</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Mathieu</givenName>          <surName>GUEYE</surName>
+    </individualName>
+<organizationName>IFAN Ch. A. Diop</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Corniche Ouest UCAD</deliveryPoint><city>Dakar</city><administrativeArea>Dakar</administrativeArea><postalCode>221</postalCode><country>SENEGAL</country>    </address>
+<phone>221776356126</phone><electronicMailAddress>gueye_guirane@yahoo.fr</electronicMailAddress><onlineUrl>http://ucad.sn</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Mathieu</givenName>          <surName>Gueye</surName>
+    </individualName>
+<electronicMailAddress>gueye_guirane@yahoo.fr</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-07-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Ces données d&amp;#39;occurrences concernent uniquement l&amp;#39;ensemble de spécimens d&amp;#39;herbiers de plantes menacées conservés à l&amp;#39;Herbier de l&amp;#39;IFAN. Les spécimens ont été collectés dans différentes régions du Sénégal par divers collecteurs et à des dates différentes. Ils couvrent donc différentes périodes des années 1912 à 2016.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Plantes</keyword>
+              <keyword>Sénégal</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>menacées</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Ces données d&apos;occurrences concernent uniquement l&apos;ensemble de spécimens d&apos;herbiers de plantes menacées conservés à l&apos;Herbier de l&apos;IFAN. Les spécimens ont été collectés dans différentes régions du Sénégal par divers collecteurs et à des dates différentes. Ils couvrent donc différentes périodes des années 1912 à 2016.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-18.267</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-2.367</eastBoundingCoordinate>
+                      <northBoundingCoordinate>16.167</northBoundingCoordinate>
+                      <southBoundingCoordinate>8.167</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1912
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                          <commonName>Plantes</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Mathieu</givenName>          <surName>GUEYE</surName>
+    </individualName>
+<organizationName>IFAN Ch. A. Diop</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>Corniche Ouest UCAD</deliveryPoint><city>Dakar</city><administrativeArea>Dakar</administrativeArea><postalCode>221</postalCode><country>SENEGAL</country>    </address>
+<phone>221776356126</phone><electronicMailAddress>gueye_guirane@yahoo.fr</electronicMailAddress><onlineUrl>http://ucad.sn</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Seydina</givenName>          <surName>DIOP</surName>
+    </individualName>
+<organizationName>IFAN Ch. A. Diop</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Corniche Ouest UCAD</deliveryPoint><city>Dakar</city><administrativeArea>Dakar</administrativeArea><postalCode>221</postalCode><country>SENEGAL</country>    </address>
+<onlineUrl>http://ucad.sn</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Doudou</givenName>          <surName>DIOP</surName>
+    </individualName>
+<organizationName>IFAN Ch. A. Diop</organizationName><positionName>Chercheur</positionName>    <address>
+<deliveryPoint>Corniche Ouest UCAD</deliveryPoint><city>Dakar</city><administrativeArea>Dakar</administrativeArea><postalCode>221</postalCode><country>SENEGAL</country>    </address>
+<onlineUrl>http://ucad.sn</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Souleye</givenName>          <surName>KOMA</surName>
+    </individualName>
+<organizationName>IFAN Ch. A. Diop</organizationName><positionName>Aide Technique</positionName>    <address>
+<deliveryPoint>Corniche Ouest UCAD</deliveryPoint><city>Dakar</city><administrativeArea>Dakar</administrativeArea><postalCode>221</postalCode><country>SENEGAL</country>    </address>
+<onlineUrl>http://ucad.sn</onlineUrl>      </contact>
+
+      <project id="BID-AF2015-0066-REG">
+          <title>Capacity building and biodiversity data mobilization for conservation, sustainable use, and decision making in Africa and Madagascar</title>
+          <personnel>
+    <individualName>
+<givenName>Mathieu</givenName>          <surName>GUEYE</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>This project to mobilize biodiversity data and identify conservation priorities will be implemented by a consortium of eight African countries – Senegal, Côte-d’Ivoire, Mali, Guinea, DRC, Niger, Madagascar, and Benin.
+Training workshops organized by the University of Kansas will help build the data publishing capacity of project partners. The consortium will identify priority invasive alien species and threatened species for data mobilization, and publish relevant data from collections in France, Netherlands and Belgium. More than 200,000 records of biodiversity data will be made available through GBIF.org and national portals.
+Based on published data, the consortium will develop distribution maps of priority species, suggest actions to monitor and control the spread of invasive alien species and provide recommendations for the conservation of threatened species.</para>
+          </abstract>
+          <funding>
+              <para>The funding of this project is generously provided by European Union in the framework of Biodiversity Information for Development program managed by GBIF Secretariat</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The data digitized and published in the framework of this project are gathered throughout the country members on the targeted species</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Despite its utmost importance to the survival of humanity, biodiversity is subject to many threats. As a significant step toward overcoming these threats, we submit this project in the framework of a consortium of eight African countries - Senegal, Côte-d’Ivoire, Mali, Guinea, DRC, Niger, Madagascar, and Benin - to achieve the following goals: 
+1) Establish and strengthen international collaborations to mobilize biodiversity data; to achieve that goal, we will identify priority invasive alien species and threatened species to be considered in the consortium. We will organize workshops at regional level under the umbrella of the University of Kansas (USA), our Non-ACP partner, to capacitate project partners. We will digitize and publish data of consortium countries deposited in France, Netherlands, and Belgium. 
+2) Increase available biodiversity data, within and beyond the grant period, by capacitating and providing financial assistance to in-country partners to encourage them mobilize and publish their data through GBIF and national portals. 
+3) Apply biodiversity data in response to conservation priorities by achieving the following: elaborate distribution maps of threatened species and invasive alien species; identify the main threats to species and suggest efficient actions to protect and conserve them; identify and suggest efficient actions to monitor and eradicate invasive alien species; evaluate the efficiency of protected areas with respect to biodiversity conservation and make adequate suggestions; finally, from our results, elaborate and broadcast communication and outreach via diverse media so as to demonstrate to policy- and decision-makers the value chain: data → knowledge → applications.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:04Z</dateStamp>
+      <citation>GUEYE M (2018). Données d&apos;occurrences des spécimens des plantes menacées du Sénégal conservés à  l&apos;Herbier de l&apos;IFAN.. Institut Fondamental d’Afrique Noire / Cheikh Anta Diop (IFAN Ch. A. Diop). Occurrence dataset https://doi.org/10.15468/1ojlip accessed via GBIF.org on 2020-01-20.</citation>
+              <bibliography>
+      <citation>http://www.ville-ge.ch/musinfo/bd/cjb/africa/index.php?langue=fr						
+Berhaut, J. (1979). Flore illustrée du Sénégal. Dicotyledones. Tome 6 Linacées  à Nymphéacées. Gouvernement du Sénégal-Ministère du développement Rural et de l&apos;Hydraulique, Direction des Eaux et Forêts, Dakar 634p.						
+Berhaut, J. (1976). Flore illustrée du Sénégal. Dicotyledones. Tome 5 Legumineuses  Papilionacées. Gouvernement du Sénégal-Ministère du développement Rural et de l&apos;Hydraulique, Direction des Eaux et Forêts, Dakar 658p.						
+Berhaut, J. (1975b). Flore illustrée du Sénégal. Dicotyledones. Tome 4 Ficoidées  à Legumineuses. Gouvernement du Sénégal-Ministère du développement Rural et de l&apos;Hydraulique, Direction des Eaux et Forêts, Dakar 625 p.						
+Berhaut, J. (1975a). Flore illustrée du Sénégal. Dicotyledones. Tome 3 Connaracées  à Euphorbiacées. Gouvernement du Sénégal-Ministère du développement Rural et de l&apos;Hydraulique, Direction des Eaux et Forêts, Dakar 634p.						
+Berhaut, J. (1974). Flore illustrée du Sénégal. Dicotyledones. Tome 2 Balanophoracées  à Composées, Gouvernement du Sénégal-Ministère du développement Rural et de l&apos;Hydraulique, Direction des Eaux et Forêts, Dakar 694p.						
+Berhaut, J. (1971). Flore illustrée du Sénégal. Dicotyledones. Tome 1 Acanthacées  à Avicenniacées. Gouvernement du Sénégal-Ministère du développement Rural et de l&apos;Hydraulique, Direction des Eaux et Forêts, Dakar 626p.						
+Berhaut J. (1967). Flore du Sénégal plus complète avec les forêts humides de la Casamance. Ed. ClairAfrique, 485p.</citation>
+              </bibliography>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

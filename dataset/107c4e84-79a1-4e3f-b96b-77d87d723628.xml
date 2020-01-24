@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="107c4e84-79a1-4e3f-b96b-77d87d723628"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/lcbrct</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbifbenin.org/resource?r=charles_agro_bid</alternateIdentifier>
+        <alternateIdentifier>107c4e84-79a1-4e3f-b96b-77d87d723628</alternateIdentifier>
+        <alternateIdentifier>http://ipt-benin.gbif.fr/resource?r=charles_agro_bid</alternateIdentifier>
+    <title>Agroforestry plant species found in protected areas and riparian lands in Sudano-guinean and Sudanian agroecological zones. Data mobilized in the framework of BID National project BID-AF2015-0065-NAC and funded by EU</title>
+    <creator>
+    <individualName>
+<givenName>Alain Jaures</givenName>          <surName>Gbetoho</surName>
+    </individualName>
+<organizationName>University of Abomey-Calavi. Faculty of Agricultural Sciences. Laboratoire des Sciences Forestières/Université d’Abomey-Calavi (LSF/UAC)</organizationName>    <address>
+<deliveryPoint>BP 393 Cotonou</deliveryPoint><city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<electronicMailAddress>gljaures@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Charles</givenName>          <surName>Gangnibo</surName>
+    </individualName>
+<organizationName>University of Abomey-Calavi/FSA/Laboratory of Forest Sciences</organizationName>    <address>
+<deliveryPoint>BP 1493 Abomey-Calavi</deliveryPoint><city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<phone>+22997398973</phone><electronicMailAddress>charlaco2000@yahoo.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Jean</givenName>          <surName>Ganglo</surName>
+    </individualName>
+<organizationName>University of Abomey-Calavi. Faculty of Agricultural Sciences. Laboratoire des Sciences Forestières/Université d’Abomey-Calavi (LSF/UAC)</organizationName><positionName>Professor</positionName>    <address>
+<city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<phone>+22966363770</phone><electronicMailAddress>ganglocj@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2019-06-26
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>List and geographic position of plant species from taxonomic families from some agroforestry species recorded using phytosociology</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Classified forests</keyword>
+              <keyword>Benin</keyword>
+              <keyword>ecology</keyword>
+              <keyword>riparian lands</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>agroforestry species</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>List and geographic position of plant species from taxonomic families from some agroforestry species recorded using phytosociology</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>1</westBoundingCoordinate>
+                      <eastBoundingCoordinate>3.75</eastBoundingCoordinate>
+                      <northBoundingCoordinate>12</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.5</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1995-10-11
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2011-05-13
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Alain Jaures</givenName>          <surName>Gbetoho</surName>
+    </individualName>
+<organizationName>University of Abomey-Calavi. Faculty of Agricultural Sciences. Laboratoire des Sciences Forestières/Université d’Abomey-Calavi (LSF/UAC)</organizationName>    <address>
+<deliveryPoint>BP 393 Cotonou</deliveryPoint><city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<electronicMailAddress>gljaures@gmail.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project id="BID-AF2015-0065-NAC">
+          <title>Capacity building and biodiversity data mobilization to address health and food security priorities in Benin</title>
+          <personnel>
+    <individualName>
+<givenName>Jean Cossi</givenName>          <surName>Ganglo</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>This project mobilizes data about medicinal plants and multipurpose agroforestry plant species in Benin, strengthening the national network’s capacity and promoting the use of these data in biodiversity conservation.
+To achieve this, priority medicinal plants known to treat malaria and important agroforestry species in use in the country are being identified, and workshops on data mobilization and data use are organized. Over 59,000 data records will be published through GBIF.org and the GBIF Benin portal. Relevant data held in collections in France, Netherlands and Belgium are also being gathered and will be published.
+The project maps the distribution of targeted species and will suggest conservation strategies to policy makers during workshops on the conservation and sustainable use of these species.</para>
+          </abstract>
+          <funding>
+              <para>The funding of this project is generously provided by European Union in the framework of Biodiversity Information for Development program managed by GBIF Secretariat</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The data digitized and published in the framework of this project are gathered throughout the whole country on the targeted species</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The design is detailed according to the objectives of the project
+1) Establish and strengthen national biodiversity information facilities; to achieve this, we will identify priority medicinal plants renowned in healing malaria and priority multipurpose agroforestry plant species used by Beninese. We will organize workshops to capacitate partners to enable them mobilize and use data. We will also digitize, and publish Benin data deposited in France, Netherlands, and Belgium.
+
+2)  Increase available biodiversity data, within and beyond the grant period by providing technical and financial assistance to partner institutions to help them digitize their data. Data mobilized and checklists will be published through GBIF and GBIF Benin portals.
+
+3) Apply biodiversity data in response to national priorities by achieving distribution maps and ecological niche models of the targeted species; we will suggest strategies to conserve and use species and make conclusions on how relevant protected areas are today and in the future with respect to biodiversity conservation and make adequate suggestions to increase their efficiency in protecting biodiversity. Finally, communications and outreach will be elaborated and broadcasted via diverse media to demonstrate to policy and decision makers the value chain: data → knowledge → applications.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-01-20T15:36:09Z</dateStamp>
+      <citation>Gbetoho A J, Gangnibo C (2019). Agroforestry plant species found in protected areas and riparian lands in Sudano-guinean and Sudanian agroecological zones. Data mobilized in the framework of BID National project BID-AF2015-0065-NAC and funded by EU. Version 1.3. GBIF Benin. Occurrence dataset https://doi.org/10.15468/lcbrct accessed via GBIF.org on 2020-01-20.</citation>
+              <bibliography>
+      <citation>Agonyissa D. (1996) Productivité et capacité de charge des pâturages naturels soudano-guinéens de la forêt classée de Wari-Maro. Thèse présentée en vue de l&apos;obtention du diplôme d&apos;Ingénieur agronome, UNB-FSA, 52p						
+Sinsin B., Djego J., Houngbo E., Houénouha R., Lougbégnon T., Orékan V., Tchintchin Q. (2010) Etude de la diversité biologique dans les périmètres de reboisement de Kilir et d&apos;Abomey appartenant à l&apos;aire d&apos;intervention du PGFTR. PGFTR, 110p						
+Natta A.K. (2000) Tree species diversity assessment in Riparian Forests using remote sensing, geographical information systems and geostatistics - Case study of Toui-Kilibo protected forest in Benin. Master of Science Thesis, International Institute for Aerospace Survey and Earth Sciences, Forest Science Division						
+CERGET-ONG (2011) Réalisation de l&apos;étude de référence sur la diversité biologique des massifs forestiers des Trois rivières, de Sota, de Goungoun, de Dogo-Kétou, de l&apos;Ouémé supérieur-N&apos;Dali, PGFTR, 139P						
+Bossou B. (2001) Contribution à l&apos;aménagement de la forêt classée de Dogo-Kétou : structure et dynamique des différents groupements végétaux et périodicité de coupe. Thèse présentée en vue de l&apos;obtention du diplôme d&apos;Ingénieur agronome, UAC-FSA, 141p</citation>
+              </bibliography>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
